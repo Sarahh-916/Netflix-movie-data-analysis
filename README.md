@@ -25,7 +25,7 @@ to uncover trends and patterns in Netflix content.
 
 ## Files
 - `netflix_movie_data_analysis.ipynb` – main notebook
-- `data/` – dataset used for analysis
+- `mymoviedb.csv` – dataset used for analysis
   
 ## How to Run
 Open the notebook using Jupyter Notebook or Google Colab and run all cells.
