@@ -1,1 +1,1 @@
-# data-analytics-projects
+# Netflix-movie-data-analysis-project
