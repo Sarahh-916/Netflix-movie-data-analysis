@@ -1,31 +1,40 @@
-# Netflix Movies Data Analysis
+# Project Description
+This project analyzes a dataset of 10,000 Netflix movies to uncover insights about content trends, genres, ratings, and release patterns. Using Python, it performs data preprocessing and exploratory data analysis (EDA), helping understand Netflix’s movie library and viewer preferences.
 
-## Project Description
-This project analyzes a dataset of 10,000 Netflix movies using Python. 
-The analysis focuses on data preprocessing and exploratory data analysis (EDA) 
-to uncover trends and patterns in Netflix content.
+# Features
+* Data cleaning and preprocessing
+* Handling missing values and duplicates
+* Exploratory Data Analysis (EDA) on Netflix movies
+* Visualizations of trends, popular genres, and ratings
+* Insights into movie release patterns over the years
 
-## Dataset
-- Source: Kaggle (Netflix Movies Dataset)
-- Size: ~10,000 records
-- Type: Movies metadata
+# Tech Stack
+* Python – programming language
+* Pandas, NumPy – data manipulation
+* Matplotlib, Seaborn – visualizations
+* Jupyter Notebook – analysis environment
 
-## Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- Jupyter Notebook
+# Screenshots
 
-## Key Steps Performed
-- Data cleaning and preprocessing
-- Handling missing values
-- Exploratory Data Analysis (EDA)
-- Visualization of trends and patterns
+(You can add images of your visualizations here)
+Example:
 
-## Files
-- `netflix_movie_data_analysis.ipynb` – main notebook
-- `mymoviedb.csv` – dataset used for analysis
-  
-## How to Run
-Open the notebook using Jupyter Notebook or Google Colab and run all cells.
+Genre Distribution
+
+Top 10 Highest Rated Movies
+
+Movies Released Per Year
+
+# Dataset
+* Source: Kaggle – Netflix Movies Dataset
+* Size: ~10,000 records
+* Type: Movies metadata
+
+# How to Run
+* Download or clone the repository.
+* Open netflix_movie_data_analysis.ipynb in Jupyter Notebook or Google Colab.
+* Run all cells to perform the analysis and generate visualizations.
+
+# Files
+* netflix_movie_data_analysis.ipynb – main notebook
+* mymoviedb.csv – dataset used for analysis
