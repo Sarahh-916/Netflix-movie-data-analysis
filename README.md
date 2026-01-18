@@ -15,11 +15,15 @@ This project analyzes a dataset of 10,000 Netflix movies to uncover insights abo
 * Jupyter Notebook – analysis environment
 
 # Screenshots
-
+## Count of movies of different genres
 ![GenreColumnDistribution](screenshots/genrecolumndistribution.png)
+## Movie with highest popularity
 ![MostPopularMovie](screenshots/highestpopularity.png)
+## Movie with least popularity
 ![LeastPopularMovie](screenshots/lowestpopularity.png)
+## Number of movies released in each year
 ![Numberoffilmsinyear](screenshots/numberoffilmsinyear.png)
+## Votes distribution
 ![VotesDistribution](screenshots/votesdistribution.png)
 
 # Dataset
