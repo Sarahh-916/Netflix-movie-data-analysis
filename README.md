@@ -26,6 +26,13 @@ This project analyzes a dataset of 10,000 Netflix movies to uncover insights abo
 ## Votes distribution
 ![VotesDistribution](screenshots/votesdistribution.png)
 
+# Insights
+* Drama is the most frequent genre in the dataset and has appeared more than 14% of times than other 19 genres.
+* Average category movies have highest number of votes.
+* Movie:Spider-Man:No Way Home in genre action,adventure and science fiction has highest popularity.
+* The United States vs. Billie Holiday is the least popular movie.
+* Year 2020 has the most number of films filmed.
+
 # Dataset
 * Source: Kaggle – Netflix Movies Dataset
 * Size: ~10,000 records
