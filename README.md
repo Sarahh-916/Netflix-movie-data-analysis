@@ -16,14 +16,11 @@ This project analyzes a dataset of 10,000 Netflix movies to uncover insights abo
 
 # Screenshots
 
-(You can add images of your visualizations here)
-Example:
-
-Genre Distribution
-
-Top 10 Highest Rated Movies
-
-Movies Released Per Year
+![GenreColumnDistribution](screenshots/genrecolumndistribution.png)
+![MostPopularMovie](screenshots/highestpopularity.png)
+![LeastPopularMovie](screenshots/lowestpopularity.png)
+![Numberoffilmsinyear](screenshots/numberoffilmsinyear.png)
+![VotesDistribution](screenshots/votesdistribution.png)
 
 # Dataset
 * Source: Kaggle – Netflix Movies Dataset
